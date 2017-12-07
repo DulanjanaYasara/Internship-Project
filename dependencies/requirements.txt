@@ -1,0 +1,9 @@
+gspread
+unidecode
+spacy
+nltk
+fuzzywuzzy
+oauth2client
+
+
+

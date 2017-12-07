@@ -1,0 +1,6 @@
+nltk
+unidecode
+pymongo
+ete3
+scrapy
+
